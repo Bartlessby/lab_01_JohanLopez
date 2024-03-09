@@ -59,9 +59,23 @@ en este caso se crea el mismo sumados de 1bit (siguiendo la misma logica) pero c
     endmodule
 
 ´´´
-
+### ¿Como simular?
+Para simular cada archivo (sum1bcc y sum1bcc_primitive) es necesario:
+- a) Instalar la herramienta de simulacion elegida (Questa) y asignarla dentro de quartus especificando su ruta de ejecucion.
+- b) Asignar la Top-level entity a el archivo que se desea simular.
+- c) Sintetizar y analizar
+Una vez realizado esto se corre la simulacion y Questa se despliega automaticamente; para realizar la simulacion del segundo archivo sin crear dos proyecto o tener otro quartus ejecutandose, se debe finalizar la primera simulacion y hacer los pasos b) y c).
 
 ### Resultados de simulacion:
 
+#### sum1bcc_primitive
+
+
+#### sum1bcc
+
+
 ### Conclusiones:
+- Exinten varias formas validas de describir circuitos electronicos en Verilog-
+- Las herramientas de simulacion permiten verificar el correcto funcionamiento de nuestros modelos.
+
 
