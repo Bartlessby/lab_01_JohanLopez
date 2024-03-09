@@ -1,7 +1,9 @@
 # lab01- sumador 
-## nombres
-Johan Hernan Lopez Alonso
 
-## informe de laoratorio 
+Nombre: Johan Hernan Lopez Alonso
+
+## informe de laoratorio
+###El codigo inicial: \\
+
 
 ### sumador 
